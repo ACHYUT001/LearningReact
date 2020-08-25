@@ -1,0 +1,22 @@
+
+
+.Wall-Props {
+    background-color: aqua;
+    min-height: 100vh;
+    width: 100%;
+    padding: 10px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Button-Props {
+    height : 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    width: 100%;
+    
+
+}
