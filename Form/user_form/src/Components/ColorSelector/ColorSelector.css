@@ -1,0 +1,12 @@
+.Color-Selector{
+    height: auto;
+    width: 200px;
+    border: 2px black solid;
+    padding: 10px;
+    
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+}
